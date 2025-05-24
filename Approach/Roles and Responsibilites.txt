@@ -1,0 +1,31 @@
+I am currently working for Goldman Sachs client as Java Backend Developer. As a Software Engineer working with Java, Pure, Alloy, and Sybase DB, my key roles and responsibilities included:
+
+Resolving Delays and Data Quality Issues:
+
+Analyzed and addressed delays and data quality problems within the legacy Prime Connect process.
+
+Reduced system overhead and eliminated manual de-duplication tasks, streamlining the process.
+
+Updating Queries for New Attributes:
+
+Updated and optimized queries to support new attributes in the system.
+
+Replaced deprecated queries, ensuring compatibility with the latest system changes.
+
+Optimizing System Performance:
+
+Reduced memory consumption by optimizing tracing agent logs.
+
+Decommissioned unused API calls, reducing system load and improving overall efficiency.
+
+Conducting Impact Analysis:
+
+Performed a detailed impact analysis on removing key attributes in accounting engine calculations.
+
+Ensured that these changes did not affect the integrity of the calculations or business logic.
+
+Investigating and Fixing Pipeline Issues:
+
+Investigated and resolved pipeline-related issues to ensure smooth data processing.
+
+Identified and eliminated bottlenecks to ensure uninterrupted data flow.
